@@ -1,0 +1,21 @@
+/.resistor-yolo-env/
+/resistor-detection-v6/
+/Resistor and Band Detection.v6i.yolov11/
+/资料/
+/Assessment brief_2026-27 Machine Vision.docx
+/yolo11n.pt
+__pycache__/
+
+/runs/*
+!/runs/resistor-yolo11n-v6/
+/runs/resistor-yolo11n-v6/*
+!/runs/resistor-yolo11n-v6/results.csv
+!/runs/resistor-yolo11n-v6/results.png
+!/runs/resistor-yolo11n-v6/test/
+!/runs/resistor-yolo11n-v6/weights/
+/runs/resistor-yolo11n-v6/test/*
+!/runs/resistor-yolo11n-v6/test/metrics.yaml
+!/runs/resistor-yolo11n-v6/test/confusion_matrix.png
+!/runs/resistor-yolo11n-v6/test/BoxPR_curve.png
+/runs/resistor-yolo11n-v6/weights/*
+!/runs/resistor-yolo11n-v6/weights/best.pt
