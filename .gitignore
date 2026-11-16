@@ -16,6 +16,7 @@ __pycache__/
 /runs/resistor-yolo11n-v6/test/*
 !/runs/resistor-yolo11n-v6/test/metrics.yaml
 !/runs/resistor-yolo11n-v6/test/confusion_matrix.png
+!/runs/resistor-yolo11n-v6/test/confusion_matrix_normalized.png
 !/runs/resistor-yolo11n-v6/test/BoxPR_curve.png
 /runs/resistor-yolo11n-v6/weights/*
 !/runs/resistor-yolo11n-v6/weights/best.pt
